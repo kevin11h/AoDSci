@@ -26,3 +26,5 @@ S  pecific
 
 1. https://www.youtube.com/watch?v=GRNyEzQ26Ww
 2. https://www.youtube.com/watch?v=cJYgCI4inU0
+
+Explain your pains
