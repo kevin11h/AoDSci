@@ -9,13 +9,13 @@ http://bedford-computing.co.uk/learning/wp-content/uploads/2016/09/artofdatascie
 
 <b>P</b>  lausible
 
-A  nswerable
+<b>A</b>  nswerable
 
-I  nteresting
+<b>I</b>  nteresting
 
-N  ovel
+<b>N</b>  ovel
 
-S  pecific
+<b>S</b>  pecific
 
 
 # 2. Types of Data Science Questions
