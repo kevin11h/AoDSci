@@ -6,9 +6,13 @@ http://bedford-computing.co.uk/learning/wp-content/uploads/2016/09/artofdatascie
 # 1. Characteristics of Good Questions
 
 P  lausible
+
 A  nswerable
+
 I  nteresting
+
 N  ovel
+
 S  pecific
 
 
