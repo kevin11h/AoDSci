@@ -3,9 +3,11 @@ Art of Data Science
 
 http://bedford-computing.co.uk/learning/wp-content/uploads/2016/09/artofdatascience.pdf
 
+![](https://raw.githubusercontent.com/kevin11h/AoDSci/master/epicycles-of-analysis.PNG)
+
 # 1. Characteristics of Good Questions
 
-P  lausible
+<b>P</b>  lausible
 
 A  nswerable
 
